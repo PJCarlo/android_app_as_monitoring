@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Gradient for the User Interface -->
+    <color name="start_color">#353A40</color>
+    <color name="mid_color">#292D32</color>
+    <color name="end_color">#16171B</color>
+
+    <!-- Transparent Color -->
+    <color name="transparent_color">#00000000</color>
+
+</resources>
+
+
